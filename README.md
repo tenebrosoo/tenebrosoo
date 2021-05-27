@@ -1,5 +1,3 @@
-Hello World 👋
-
 ```diff
 @@ I'm Ricardo @@
 + 📌 Living in SC, Brazil 🇧🇷.
